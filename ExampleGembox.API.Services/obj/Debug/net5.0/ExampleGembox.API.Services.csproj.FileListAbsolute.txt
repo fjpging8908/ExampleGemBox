@@ -1,0 +1,12 @@
+C:\Users\franc\OneDrive\Documentos\Personal\Source\lp_v3_micro_payout_core\ExampleGembox.API.Services\bin\Debug\net5.0\ExampleGembox.API.Services.deps.json
+C:\Users\franc\OneDrive\Documentos\Personal\Source\lp_v3_micro_payout_core\ExampleGembox.API.Services\bin\Debug\net5.0\ExampleGembox.API.Services.dll
+C:\Users\franc\OneDrive\Documentos\Personal\Source\lp_v3_micro_payout_core\ExampleGembox.API.Services\bin\Debug\net5.0\ref\ExampleGembox.API.Services.dll
+C:\Users\franc\OneDrive\Documentos\Personal\Source\lp_v3_micro_payout_core\ExampleGembox.API.Services\bin\Debug\net5.0\ExampleGembox.API.Services.pdb
+C:\Users\franc\OneDrive\Documentos\Personal\Source\lp_v3_micro_payout_core\ExampleGembox.API.Services\obj\Debug\net5.0\ExampleGembox.API.Services.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\Personal\Source\lp_v3_micro_payout_core\ExampleGembox.API.Services\obj\Debug\net5.0\ExampleGembox.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\Personal\Source\lp_v3_micro_payout_core\ExampleGembox.API.Services\obj\Debug\net5.0\ExampleGembox.API.Services.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\Personal\Source\lp_v3_micro_payout_core\ExampleGembox.API.Services\obj\Debug\net5.0\ExampleGembox.API.Services.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\Personal\Source\lp_v3_micro_payout_core\ExampleGembox.API.Services\obj\Debug\net5.0\ExampleGembox.API.Services.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\Personal\Source\lp_v3_micro_payout_core\ExampleGembox.API.Services\obj\Debug\net5.0\ExampleGembox.API.Services.dll
+C:\Users\franc\OneDrive\Documentos\Personal\Source\lp_v3_micro_payout_core\ExampleGembox.API.Services\obj\Debug\net5.0\ref\ExampleGembox.API.Services.dll
+C:\Users\franc\OneDrive\Documentos\Personal\Source\lp_v3_micro_payout_core\ExampleGembox.API.Services\obj\Debug\net5.0\ExampleGembox.API.Services.pdb
